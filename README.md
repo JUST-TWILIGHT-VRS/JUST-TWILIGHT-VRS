@@ -66,10 +66,6 @@
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=JUST-TWILIGHT-VRS&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=ff6bd6&icon_color=a78bfa&text_color=e9d8fd&ring_color=ff6bd6&count_private=true&include_all_commits=true" alt="Stats"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUST-TWILIGHT-VRS&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=ff6bd6&text_color=e9d8fd" alt="Top languages"/>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=JUST-TWILIGHT-VRS&theme=midnight-purple&hide_border=true&background=0f0c29&stroke=ff6bd6&ring=ff6bd6&fire=ffb86c&currStreakLabel=ff6bd6&currStreakNum=ffffff&sideNums=ffffff&sideLabels=a78bfa&dates=c4b5fd" alt="Streak"/>
-
 </div>
 
 <!-- ═════════════ ACTIVITY GRAPH ═════════════ -->
@@ -77,16 +73,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JUST-TWILIGHT-VRS&bg_color=0f0c29&color=ff6bd6&line=a78bfa&point=ffffff&area=true&area_color=8e44ad&hide_border=true&custom_title=Twilight%20Contribution%20Graph" width="100%" alt="Activity graph"/>
-
-</div>
-
-<!-- ═════════════ TROPHIES ═════════════ -->
-## 🏆 &nbsp;Trophy Case
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JUST-TWILIGHT-VRS&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="Trophies"/>
+<img src="https://ghchart.rshah.org/ff6bd6/JUST-TWILIGHT-VRS" width="95%" alt="Contribution chart"/>
 
 </div>
 
