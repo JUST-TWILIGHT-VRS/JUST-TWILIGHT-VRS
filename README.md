@@ -100,11 +100,6 @@
 <a href="https://github.com/JUST-TWILIGHT-VRS"><img src="https://img.shields.io/badge/GitHub-JUST--TWILIGHT--VRS-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="mailto:vardan.raj.srivastava1@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-ff6b9d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
-
-<br/>
 
 <sub>🌙 <i>"When the sun sets, the code begins to glow."</i> 🌙</sub>
 
