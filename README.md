@@ -86,7 +86,7 @@
 <a href="mailto:vardan.raj.srivastava1@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-ff6b9d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 
-<sub>🌙 <i>"When the sun sets, the code begins to glow."</i> 🌙</sub>
+<sub>🌙 <i>"JACK OF ALL TRADES MASTER OF NONE "</i> 🌙</sub>
 
 </div>
 
