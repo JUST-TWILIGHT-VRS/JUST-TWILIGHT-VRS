@@ -98,8 +98,7 @@
 <div align="center">
 
 <a href="https://github.com/JUST-TWILIGHT-VRS"><img src="https://img.shields.io/badge/GitHub-JUST--TWILIGHT--VRS-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-ff6b9d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-Follow-8e44ad?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="mailto:vardan.raj.srivastava1@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-ff6b9d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
 
