@@ -1,0 +1,13 @@
+{
+  "login": "JUST-TWILIGHT-VRS",
+  "name": "JUST-TWILIGHT-VRS",
+  "role": "Python Developer · AI",
+  "stack": ["Python", "Git", "GitHub", "VS Code", "Linux"],
+  "building": "AI",
+  "owner": "Vardan",
+  "utc_offset": 0,
+  "projects": [
+    {"title": "Jarvis", "tags": ["Python"], "desc": "", "button": "SEE REPOS", "icon": "core"},
+    {"title": "Hand Cursor", "tags": ["Python"], "desc": "", "button": "SEE REPOS", "icon": "cursor"}
+  ]
+}
